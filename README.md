@@ -70,13 +70,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ├── data/                  # Content data files
 └── lib/                   # Utility functions
 ```
-
-## 🌐 Deploy
-
-The easiest way to deploy is with [Vercel](https://vercel.com):
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Rangga056/Rangga-2026-portfolio)
-
 ## 📄 License
 
 © 2026 Muhammad Rangga Miftahul Falah. All rights reserved.
